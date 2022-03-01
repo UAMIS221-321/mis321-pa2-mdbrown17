@@ -1,0 +1,15 @@
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/bin/Debug/net5.0/mis321-pa2-mdbrown17.deps.json
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/bin/Debug/net5.0/mis321-pa2-mdbrown17.runtimeconfig.json
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/bin/Debug/net5.0/mis321-pa2-mdbrown17.runtimeconfig.dev.json
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/bin/Debug/net5.0/mis321-pa2-mdbrown17.dll
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/bin/Debug/net5.0/ref/mis321-pa2-mdbrown17.dll
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/bin/Debug/net5.0/mis321-pa2-mdbrown17.pdb
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.csproj.AssemblyReference.cache
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.AssemblyInfoInputs.cache
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.AssemblyInfo.cs
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.csproj.CoreCompileInputs.cache
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.dll
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/ref/mis321-pa2-mdbrown17.dll
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.pdb
+/Users/mattbrown/Documents/Alabama/Source/repos/Spring2022/mis321-pa2-mdbrown17/obj/Debug/net5.0/mis321-pa2-mdbrown17.genruntimeconfig.cache
